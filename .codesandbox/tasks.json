@@ -1,0 +1,11 @@
+{
+  "setupTasks": [],
+
+  "tasks": {
+    "gradle run": {
+      "name": "gradle run",
+      "command": "./gradlew -q -t run",
+      "runAtStart": true
+    }
+  }
+}
